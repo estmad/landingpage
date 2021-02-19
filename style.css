@@ -1,0 +1,122 @@
+/*h2 {
+	color: rgba(173,0,0,0.5);
+	color: rgba(255,0,0);
+	font-size: 20px;
+	letter-spacing: ; 
+	line-height: ;
+	text-decoration: underline;
+	text-align: center;
+	font-weight: normal;
+	font-weight: bold;
+	font-family: verdana;
+	font-family: Times New Roman;
+	background-image: url("");
+	width:;  en pixeles 
+	height:;
+	padding: distancia interna del borde cuadrado al texto contenido
+	margin: distancia externa entre dos elementos;
+	border-radius: redondear bordes en pixeles en px o en %
+	box-shadow: 4 valores 1cuanto a la derecha, abajo, cuantos px y color;
+/*	border: px en: solid green / dashed lineas y dotted puntos; */
+	
+	/*<img src= "logo.png" class="logotipo"> /*aplico solo a un tipo especifico de imagen
+	.logotipo {
+		width: 40px;
+	}
+
+	<img src= "logo.png" class="musico" "singer" > /*aplico solo a un tipo especifico de imagen
+	.logotipo {
+		width: 40px;
+	}
+
+		main {
+
+		}
+
+	.musico {
+		border-radius: 50%; /* aplica a todas las imagenes que tienen esa clase
+	}
+	.musico {
+		border-radius: 50%; /* aplica a todas las imagenes que tienen esa clase
+	}
+
+}*/
+
+body {
+	text-align: right;
+	margin-right: 5%;
+	font-family: Verdana;
+	background-color: rgba(97,0,0,0.7);
+	background-image: url(imagens/code.jpg);
+	background-size: cover;
+	height: 90vh;
+	color: red;
+}
+
+h1 {
+	font-size: 60px;
+	padding-top: 100px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 15px;
+}
+
+p {
+	font-size: 18px;
+}
+.sketch {
+	color: rgb(255,253,253);
+}
+
+.separador {
+	color: rgba(13,0,0,0.5);
+}
+
+.enlaces li {
+	display: inline;
+}
+
+.enlaces li {
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 50px;
+
+}
+
+.botao {
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	padding: 10px 15px 10px 15px;
+	margin: 5px;
+}
+
+.botao a {
+	display: inline;
+}
+
+.botao:hover {
+	background-color: rgba(204,0,0,0.4);
+}
+
+.lista {
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 50px;
+}
+.lista li {
+	display: inline;
+}
+.lista a {
+	color: rgb(220, 215, 129);
+	font-size: 30px;
+}
+
+/*<h1><span class="outra-cor">Mariana</span> Marcelino</h1>
+E depois defines a classe outra-cor no CSS para dar a cor que quiseres*/
+
+
+
+
+
+
+
